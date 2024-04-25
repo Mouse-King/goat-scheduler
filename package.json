@@ -1,0 +1,22 @@
+{
+  "name": "gmail-api-nodejs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0",
+    "html-table-to-json": "^1.0.0",
+    "imap": "^0.8.19",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.7"
+  }
+}
